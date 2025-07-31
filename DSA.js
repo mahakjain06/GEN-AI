@@ -2,7 +2,7 @@
 import { GoogleGenAI } from "@google/genai";
 
 const ai = new GoogleGenAI({
-    apiKey: "AIzaSyCHLoAi9BgDMSMmNui-ojIdzlAIngpcjcI"
+    apiKey: "Enter_your_Api Key"
 });
 
 async function main() {
